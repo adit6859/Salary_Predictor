@@ -23,9 +23,9 @@ Random Forest Algorithm is used for prediction of salary.Flask is used for getti
 Image\
 ![](image.png)\
 Input\
-![](input.PNG)\
+![](input.png)\
 Output\
-![](output.PNG)\
+![](output.png)\
 
 
 
